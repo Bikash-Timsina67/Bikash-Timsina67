@@ -57,6 +57,8 @@
 
 ## 📊 GitHub Stats
 
-![Bikash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bikash-Timsina67&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bikash-Timsina67&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bikash-Timsina67&layout=compact&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bikash-Timsina67&layout=compact&theme=tokyonight)
