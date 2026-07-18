@@ -1,0 +1,1 @@
+console.log("Welcome to Bikash Timsina's Portfolio 🚀");
