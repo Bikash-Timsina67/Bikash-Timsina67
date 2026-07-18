@@ -89,6 +89,6 @@ Class 12 Student • Aspiring Software Engineer • Nepal 🇳🇵
 https://www.linkedin.com/in/bikashtimsina/
 
 🌐 Portfolio:
-[https://bikashtimsina.github.io](https://bikash-timsina67.github.io/bikashtimsina.github.io/)
+(https://bikash-timsina67.github.io/bikashtimsina.github.io/)
 
 ⭐ Thanks for visiting my GitHub Profile!
