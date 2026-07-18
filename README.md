@@ -9,13 +9,15 @@ Class 12 Student • Aspiring Software Engineer • Nepal 🇳🇵
 </h3>
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/bikashtimsina/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://bikash-timsina67.github.io/bikashtimsina.github.io/">
+<a href="https://bikash-timsina67.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -86,9 +88,13 @@ Class 12 Student • Aspiring Software Engineer • Nepal 🇳🇵
 # 📫 Connect With Me
 
 💼 LinkedIn:
+
 https://www.linkedin.com/in/bikashtimsina/
 
 🌐 Portfolio:
-(https://bikash-timsina67.github.io/bikashtimsina.github.io/)
 
-⭐ Thanks for visiting my GitHub Profile!
+https://bikash-timsina67.github.io/
+
+---
+
+⭐ Thanks for visiting my GitHub Profile! 🚀
