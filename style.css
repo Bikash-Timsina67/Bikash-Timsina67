@@ -16,118 +16,188 @@ body{
 }
 
 
+
+/* NAVBAR */
+
 nav{
+
     display:flex;
     justify-content:space-between;
     align-items:center;
     padding:25px 10%;
+
 }
 
 
 .logo{
-    font-size:30px;
+
+    font-size:32px;
+
 }
+
 
 .logo span{
+
     color:#00eaff;
+
 }
 
 
-ul{
-    display:flex;
-    gap:30px;
-    list-style:none;
-}
+.links a{
 
-
-a{
     color:white;
     text-decoration:none;
+    margin-left:30px;
+    transition:.3s;
+
 }
+
+
+.links a:hover{
+
+    color:#00eaff;
+
+}
+
+
+
+
+
+/* HERO */
 
 
 .hero{
 
     min-height:90vh;
     display:flex;
-    justify-content:center;
     align-items:center;
+    justify-content:center;
     gap:70px;
     padding:50px 10%;
 
 }
 
 
-.hero-text{
+
+.hero-content{
+
     max-width:600px;
+
 }
 
 
 .hero h1{
+
     font-size:55px;
+
 }
 
 
 .hero h1 span{
+
     color:#00eaff;
+
 }
 
 
 .hero h2{
+
     margin:20px 0;
-    color:#aaa;
+    color:#00eaff;
+
 }
 
 
 .hero p{
-    color:#ccc;
-    line-height:1.6;
+
+    color:#bbb;
+    line-height:1.7;
+
 }
 
 
 
+/* BUTTONS */
+
+
 .buttons{
+
     margin-top:30px;
+
 }
 
 
 .buttons a{
 
-    background:#00eaff;
-    color:black;
-    padding:12px 25px;
-    border-radius:30px;
+    display:inline-block;
+    padding:12px 28px;
     margin-right:15px;
 
+    border-radius:30px;
+
+    background:#00eaff;
+    color:black;
+
+    text-decoration:none;
+
+    font-weight:bold;
+
+    transition:.3s;
+
 }
 
 
 
-.buttons .outline{
+.buttons a:hover{
 
-    background:transparent;
-    border:2px solid #00eaff;
-    color:white;
+    transform:translateY(-5px);
 
 }
 
 
 
-.code-box{
+
+
+/* TERMINAL */
+
+
+.terminal{
 
     background:#111;
-    padding:30px;
+
+    padding:25px;
+
     border-radius:15px;
-    box-shadow:0 0 30px #00eaff33;
+
+    width:350px;
+
+    box-shadow:
+    0 0 30px #00eaff55;
 
 }
 
 
+.top{
 
-pre span{
     color:#00eaff;
+    margin-bottom:20px;
+
 }
 
+
+pre{
+
+    color:#ddd;
+    font-size:15px;
+
+}
+
+
+
+
+
+
+/* SECTIONS */
 
 
 section{
@@ -147,49 +217,105 @@ section h2{
 
 
 
+
+/* SKILLS */
+
+
 .cards{
 
     display:flex;
-    flex-wrap:wrap;
     justify-content:center;
-    gap:25px;
+    flex-wrap:wrap;
+    gap:20px;
 
 }
 
 
-
-.card,.project{
+.cards div{
 
     background:#111;
-    padding:30px;
-    width:250px;
+
+    padding:25px;
+
+    width:180px;
+
     border-radius:15px;
+
     transition:.3s;
 
 }
 
 
-
-.card:hover,.project:hover{
+.cards div:hover{
 
     transform:translateY(-10px);
+
+    box-shadow:0 0 20px #00eaff55;
+
+}
+
+
+
+
+
+/* PROJECTS */
+
+
+.projects{
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:25px;
+
+    flex-wrap:wrap;
+
+}
+
+
+.box{
+
+    background:#111;
+
+    padding:30px;
+
+    width:280px;
+
+    border-radius:15px;
+
+    transition:.3s;
+
+}
+
+
+.box:hover{
+
+    transform:scale(1.05);
+
     box-shadow:0 0 25px #00eaff55;
 
 }
 
 
 
+
 footer{
 
     text-align:center;
+
     padding:30px;
+
     color:#777;
 
 }
 
 
 
+
+
 @media(max-width:800px){
+
 
 .hero{
 
@@ -197,16 +323,19 @@ footer{
 
 }
 
+
 .hero h1{
 
     font-size:40px;
 
 }
 
-nav ul{
+
+.links{
 
     display:none;
 
 }
+
 
 }
